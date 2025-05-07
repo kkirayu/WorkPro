@@ -1,0 +1,7 @@
+# ninja log v6
+2	269	1746598392870278100	CMakeFiles/hardcode.dir/main.cpp.o.ddi	618aaedad60671c2
+272	287	1746598393154333359	CMakeFiles/hardcode.dir/CXX.dd	fd5aed361d67d7af
+272	287	1746598393154333359	/home/vermouth/CLionProjects/hardcode/cmake-build-debug/CMakeFiles/hardcode.dir/CXXModules.json	fd5aed361d67d7af
+272	287	1746598393154333359	CMakeFiles/hardcode.dir/main.cpp.o.modmap	fd5aed361d67d7af
+287	1672	1746598393155277831	CMakeFiles/hardcode.dir/main.cpp.o	499e6143f241de45
+1673	1802	1746598394542100656	hardcode	df45c4579a3ec3db
